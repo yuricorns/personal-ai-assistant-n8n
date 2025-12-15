@@ -45,4 +45,15 @@ Functional personal AI assistant for learning and experimentation.
 - Improve intent classification
 - Role-based assistant behaviors
 
+## Screenshots
+
+### Workflow Overview
+![Workflow](workflow.jpg)
+
+### AI Agent Configuration
+![AI Agent](AI20%agent.jpg)
+
+### Successful Execution
+![Execution](execution.jpg)
+
 
