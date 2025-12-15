@@ -51,7 +51,7 @@ Functional personal AI assistant for learning and experimentation.
 ![Workflow](workflow.jpg)
 
 ### AI Agent Configuration
-![AI Agent](AI-agent.jpg)
+![AI Agent](AI%20agent.jpg)
 
 ### Successful Execution
 ![Execution](execution.jpg)
